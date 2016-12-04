@@ -11,7 +11,8 @@ If you have any questions about these activities or Coding in general, please le
 
 In this activity we will write code using paper and pen. 
 This activity is called an "unplugged" activity because we are not using a computer.
-Coding does not just involve typing out code on a computer. It also involves thinking about how to solve problems with computers, which is called *Computational Thinking*.
+Coding does not just involve typing out code on a computer. 
+It also involves thinking about how to solve problems with computers, which is called *Computational Thinking*.
 
 The programs we write will instruct someone (a "robot") to build a stack of cups.
 We can't use any instructions in English (for example, "put the cup on top of the other one"), we can only use the six symbols the "robot" understands.
@@ -34,14 +35,27 @@ In AppInventor you can use lots of different phone and tablet features (e.g. GPS
 For some examples of apps that have been created with AppInventor, see [this website](http://appinventor.mit.edu/explore/stories.html){:target="_blank"}.
 
 We will make two different apps today by following the tutorials linked below. 
-The second tutorial (Making Pong) is in 2 parts.
+Before making these apps we will have to do a quick tutorial to make sure that the tablet is connected and runnning smoothly.
+If you are trying this at home, you are likely to be able to connect your tablet and phone up through WiFi, which is a lot easier than this, but unfortunately we cannot do it this way in this lab.
 
-### Tutorial #1: Magic 8-Ball
+### Tutorial #1: Connecting the Tablet
+
+- [Connecting the Tablet Tutorial (Word document)](connecting_activity.docx)
+
+### Tutorial #2: HelloPurr
+
+- [Hello Purr - Tutorial (Word document)](HelloPurr_activity.docx)
+- [Hello Purr Resources (Zip)](HelloPurr_resources.zip)
+
+### Tutorial #3: Magic 8-Ball
 
 - [Magic 8-Ball - Part 1 Tutorial (Word document)](8Ball_activity.docx)
 - [Magic 8-Ball Resources (Zip)](8Ball_resources.zip)
 
-### Tutorial #2: Making Pong
+If you finish the first three tutorials before the end of the workshop, you can try the *Making Pong* tutorial.
+You are also welcome to download this tutorial, which is in two parts, after the workshop and complete it at home.
+
+### Tutorial #4: Making Pong
 
 - [Making Pong - Part 1 Tutorial (Word document)](Pong_activity_part1.docx)
 - [Making Pong - Part 2 Tutorial (Word document)](Pong_activity_part2.docx)
