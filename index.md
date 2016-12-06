@@ -4,20 +4,8 @@ layout: default
 
 # Activities
 
-We will do the following activities in today's workshop - *My Robotic Friends*, *Lighbot* and *Making Apps with AppInventor*.
+We will do the following activities in today's workshop - *Lighbot* and *Making Apps with AppInventor*.
 If you have any questions about these activities or Coding in general, please let us know.
-
-## My Robotic Friends
-
-In this activity we will write code using paper and pen. 
-This activity is called an "unplugged" activity because we are not using a computer.
-Coding does not just involve typing out code on a computer. 
-It also involves thinking about how to solve problems with computers, which is called *Computational Thinking*.
-
-The programs we write will instruct someone (a "robot") to build a stack of cups.
-We can't use any instructions in English (for example, "put the cup on top of the other one"), we can only use the six symbols the "robot" understands.
-
-There's a video about this activity available [here](https://www.youtube.com/watch?v=pUXlZipzkFM){:target="_blank"}. This activity was created by [Thinkersmith](http://www.thinkersmith.org/curriculum.php){:target="_blank"}. 
 
 ## Lightbot
 
