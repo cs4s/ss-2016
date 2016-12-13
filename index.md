@@ -15,7 +15,7 @@ In this game you use commands to write instructions (Code) for the Lightbot to m
 
 ## Hour of Code Tutorials
 
-There are four different tutorials to choose from for the second half of the Coding workshop. 
+There are five different tutorials to choose from for the second half of the Coding workshop. 
 You are welcome to try any of these in any order you'd like. 
 The tutorials should each take around an hour to complete, but if you finish early you can try one of the other tutorials.
 
@@ -23,17 +23,22 @@ The tutorials should each take around an hour to complete, but if you finish ear
 JavaScript is a programming language that is often used when creating websites, but that can also be used to build games and mobile apps.
 The Hour of Code Star Wars tutorial is available [here](https://studio.code.org/s/starwars/stage/1/puzzle/1){:target="_blank"}.
 
-[Grok Learning's Python tutorial](https://groklearning.com/learn/intro-python-1/intro-to-programming/0/){:target="_blank"} is a step-by-step tutorial that introduces Coding in Python.
-Python is a programming language that is used by many different companies, including Google and Dropbox, and that is used for development in many different areas (for example: websites, games, mobile apps, research and desktop apps).
-Grok Learning's Python tutorial is available [here](https://groklearning.com/learn/intro-python-1/intro-to-programming/0/){:target="_blank"}.
-
-[Oppia's Programming with Carla tutorial](https://www.oppia.org/explore/m0LGDfsrWo4c?collection_id=inDXV0w8-p1C){:target="_blank"} shows you how to build a chat-bot. 
+[Oppia's Programming with Carla tutorial](https://www.oppia.org/explore/m0LGDfsrWo4c?collection_id=inDXV0w8-p1C){:target="_blank"} shows you how to build a chat-bot using the Python programming language. 
 A chat-bot is a program that you can talk to and have it talk back to you. 
 One of the ways that chat-bots are commonly used is to provide technical support to customers, for example: when you have problems with your mobile phone and need to get it fixed.
 Before speaking to a human for technical support, you may be directed to a chat-bot that will suggest some ways to fix the problem with your phone.
 Oppia's Programming with Carla tutorial is availble [here](https://www.oppia.org/explore/m0LGDfsrWo4c?collection_id=inDXV0w8-p1C){:target="_blank"}.
 
-
 [In CodeMonkey's Game Builder Hour of Code tutorial](https://www.playcodemonkey.com/courses/hour-of-code#1){:target="_blank"} you will create a game using CoffeeScript.
 CoffeeScript is a language that is similar to JavaScript and that can also also be used for creating websites, games and mobile apps.
 CodeMonkey's Game Builder Hour of Code tutorial is available [here](https://www.playcodemonkey.com/courses/hour-of-code#1){:target="_blank"}.
+
+[In CodeAcademy's *About You* tutorial](https://www.codecademy.com/courses/web-beginner-en-3pc6w/0/1){:target="_blank"} you will learn how to make a website "all about you", using HTML.
+HTML is a *markup language*, which is different to a *programming language* (for example: JavaScript or Python).
+Every website on the internet is built using HTML and an understanding of HTML is essential for creating web sites.
+Coders often create websites by using HTML combined with another programming language, such as JavaScript and Python.
+CodeAcademy's *About You* tutorial is available [here](https://www.codecademy.com/courses/web-beginner-en-3pc6w/0/1){:target="_blank"}.
+
+[In Microsoft Virtual Academy's Flatverse tutorial](https://www.touchdevelop.com/xkmfae){:target="_blank"} you will create a game using TouchDevelop.
+TouchDevelop is a language for creating apps - on desktop, phones and tablets - by dragging and dropping blocks of Code (like Scratch or AppInventor).
+Microsoft Virtual Academy's Flatverse tutorial is available [here](https://www.touchdevelop.com/xkmfae){:target="_blank"}.
